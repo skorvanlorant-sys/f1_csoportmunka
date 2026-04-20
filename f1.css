@@ -20,13 +20,13 @@ p {
 }
 
 
-/* Alap stílus */
+
 body {
     margin: 0;
     font-family: Arial, sans-serif;
 }
 
-/* NAVBAR */
+
 .navbar {
     background-color: #c00000;
     display: flex;
@@ -41,7 +41,6 @@ body {
     font-weight: bold;
 }
 
-/* Menü elemek */
 .menu {
     list-style: none;
     display: flex;
@@ -69,3 +68,4 @@ body {
     padding-right: 50px;
     padding-left: 50px;
 }
+
