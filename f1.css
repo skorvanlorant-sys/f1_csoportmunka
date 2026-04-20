@@ -1,0 +1,71 @@
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 40px;
+    color: white;
+    background-color: #101418;
+}
+
+.cim {
+    color: #c00000;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    border-bottom: 2px solid #c00000;
+    padding-bottom: 5px;
+}
+
+p {
+    margin: 15px 0;
+}
+
+
+/* Alap stílus */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* NAVBAR */
+.navbar {
+    background-color: #c00000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 25px;
+    color: white;
+}
+
+.navbar .logo {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+/* Menü elemek */
+.menu {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+}
+
+.menu li a {
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    transition: 0.3s;
+}
+
+.menu li a:hover {
+    color: #220c0c;
+}
+
+
+.header img{
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+.szoveg{
+    padding-right: 50px;
+    padding-left: 50px;
+}
