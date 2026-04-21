@@ -101,3 +101,7 @@ img {
 nav ul {
     flex-wrap: wrap; 
 }
+
+li {
+    line-height: 55px;
+}
